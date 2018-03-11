@@ -1,7 +1,7 @@
 # CarND-Controls-MPC
 Self-Driving Car Engineer Nanodegree Program
 
-[image1]: ./docs/equations.png "Result with 100 particles"
+[image1]: ./docs/equations.png "Model Equations"
 
 ---
 ## Requirements
